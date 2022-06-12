@@ -1,0 +1,11 @@
+{"rxpk":[{"tmst":388567955,"chan":1,"rfch":0,"freq":867.300000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":9.5,"rssi":-23,"size":37,"data":"gPCR/gKALAMC3sV7nZJjzBOLfDavk4pojXRcrwuoCKmy2YC4gg=="}]}
+{"rxpk":[{"tmst":598662203,"chan":4,"rfch":0,"freq":867.900000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":9.5,"rssi":-33,"size":37,"data":"QBsJ/wOALwACiC6JJso/+EwlkJrabS/vUawSp+FD/biXEdzfYg=="}]}
+{"rxpk":[{"tmst":688561348,"chan":6,"rfch":0,"freq":868.300000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":8.8,"rssi":-27,"size":37,"data":"gPCR/gKALQMCcSA9pGjP3MPoIf773JUG3F5U3IiqaIwwlsS3aQ=="}]}
+{"rxpk":[{"tmst":689607668,"chan":5,"rfch":0,"freq":868.100000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":-5.0,"rssi":-94,"size":13,"data":"YPCR/gKgKQMCtl8axw=="}]}
+{"rxpk":[{"tmst":898653060,"chan":5,"rfch":0,"freq":868.100000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":9.8,"rssi":-32,"size":37,"data":"QBsJ/wOAMAACaFFpgoHNZh6p2U6Yg2pKUiVwqhstXu0TYmz68g=="}]}
+{"rxpk":[{"tmst":988554756,"chan":5,"rfch":0,"freq":868.100000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":9.5,"rssi":-24,"size":37,"data":"gPCR/gKALgMCtoYpR/KFhiUEoSqfDu1m20Gb4x/49PoZ2lU4Cg=="}]}
+{"rxpk":[{"tmst":989601076,"chan":6,"rfch":0,"freq":868.300000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":-4.5,"rssi":-94,"size":13,"data":"YPCR/gKgKgMCupu0lg=="}]}
+{"rxpk":[{"tmst":1198643915,"chan":2,"rfch":0,"freq":867.500000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":10.5,"rssi":-33,"size":37,"data":"QBsJ/wOAMQAC70HYOMS7y7BuAnugEg4prOgE8ckUUYarlwjaVg=="}]}
+{"rxpk":[{"tmst":1288548147,"chan":3,"rfch":0,"freq":867.700000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":9.5,"rssi":-27,"size":37,"data":"gPCR/gKALwMC2vpihKaKmv8J4RQ32/8ptTUAbDLCTJHrkJ6j3w=="}]}
+{"rxpk":[{"tmst":1498634771,"chan":3,"rfch":0,"freq":867.700000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":9.5,"rssi":-34,"size":37,"data":"QBsJ/wOAMgACT/5sFz8SagZxf6oK9nHAqDb/E8C7MN+38sKCQg=="}]}
+{"rxpk":[{"tmst":1588541547,"chan":1,"rfch":0,"freq":867.300000,"stat":1,"modu":"LORA","datr":"SF7BW125","codr":"4/5","lsnr":9.5,"rssi":-25,"size":37,"data":"gPCR/gKAMAMCCx8BRECF4r6V1FGDFr4mMLhsLrwMD5say8ziCQ=="}]}

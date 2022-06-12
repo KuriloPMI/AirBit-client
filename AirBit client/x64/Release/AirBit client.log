@@ -1,0 +1,75 @@
+﻿  AirBit client.cpp
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(29,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,3): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,3): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,8): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,8): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,13): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,13): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,18): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,18): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,33): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(43,33): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(44,7): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(44,7): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(44,12): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(44,12): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(44,17): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(44,17): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(44,22): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(44,22): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(45,12): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(45,12): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(45,17): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(45,17): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(45,32): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(45,32): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(46,12): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(46,12): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(46,17): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(46,17): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(46,32): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(46,32): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(47,12): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(47,12): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(47,17): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(47,17): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(47,32): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(47,32): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(48,12): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(48,12): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(49,12): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(49,12): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(49,17): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(49,17): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(49,22): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(49,22): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(49,37): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(49,37): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(50,12): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(50,12): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(50,17): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(50,17): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(50,27): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(50,27): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(50,32): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(50,32): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(51,12): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(51,12): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(51,17): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(51,17): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(51,27): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(51,27): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(51,32): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(51,32): warning C4309: инициализация: усечение константного значения
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(243,14): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\99ksi\source\repos\AirBit client\AirBit client\AirBit client.cpp(244,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Previous IPDB not found, fall back to full compilation.
+  Создание кода
+  All 244 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  AirBit client.vcxproj -> C:\Users\99ksi\source\repos\AirBit client\x64\Release\AirBit client.exe
